@@ -15,7 +15,7 @@ We provide an overview of various approaches to build a surrogate model for mult
 
 1. Giunta A A, Balabanov V, Kaufman M, et al. Variable-complexity response surface design of an HSCT configuration[J]. Multidisciplinary Design Optimization, Alexandrov NM and Hussaini MY eds, 1997, cited by 42. 
     
-    [Problem ](https://www.notion.so/Problem-8b25a34918624e048a55e148f84b9457?pvs=21)
+    [Problem ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Problem%208b25a34918624e048a55e148f84b9457.md)
     
     ▪️ Application: aerodynamic-structural optimization of the High Speed Civil Transport (HSCT) 
     
@@ -485,7 +485,7 @@ We provide an overview of various approaches to build a surrogate model for mult
 
 1. Penwarden M, Zhe S, Narayan A, et al. Multifidelity modeling for physics-informed neural networks (pinns)[J]. Journal of Computational Physics, 2022, 451: 110844. cited by 24. Fidelity: width, depth, and optimization criteria.
     
-    [NN](https://www.notion.so/NN-9a9a95664aa241a39ba0d2bf1fd54b6d?pvs=21)
+    [NN](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/NN%209a9a95664aa241a39ba0d2bf1fd54b6d.md)
     
 2. Lei J, Liu Q, Wang X. Physics-informed multi-fidelity learning-driven imaging method for electrical capacitance tomography[J]. Engineering Applications of Artificial Intelligence, 2022, 116: 105467.cited by 5.image model：Reconstructing high-accuracy tomograms.
 
@@ -508,15 +508,15 @@ We provide an overview of various approaches to build a surrogate model for mult
 1. Ariyarit A, Kanazaki M. Multi-fidelity multi-objective efficient global optimization applied to airfoil design problems[J]. Applied Sciences, 2017, 7(12): 1318, cited by 23. **Method**:Correction. **Fidelity Management**:No,**Discrete Fidelity:** Reynolds-averaged Navier–Stokes (RANS) solver, XFOIL**. Optimization, application**:Airfoil.
 2. Nguyen N V, Tyan M, Lee J W. A modified variable complexity modeling for efficient multidisciplinary aircraft conceptual design[J]. Optimization and Engineering, 2015, 16: 483-505, cited by 30. **Method**:Correction. **Fidelity Management**:No,**Discrete Fidelity:** aircraft design synthesis program (ADSP),in-house code AADL3D**. Optimization, application**:regional jet aircraft (RJA) conceptual design,wing.
     
-    [Fidelity](https://www.notion.so/Fidelity-4b58f07e8ce340a89ba859499dd4cb5e?pvs=21)
+    [Fidelity](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Fidelity%204b58f07e8ce340a89ba859499dd4cb5e.md)
     
 3. Gano S, Perez V, Renaud J, et al. Multilevel variable fidelity optimization of a morphing unmanned aerial vehicle[C]//45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics & Materials Conference. 2004, cited by 41. **Method**:Correction. **Fidelity Management**:No,**Discrete Fidelity:FUN2D, a full Navier-Stokes coded/ vortex panel method,. Optimization, application**:Buckle Wing. 
     
-    [Fidelity](https://www.notion.so/Fidelity-6584c661a70646a9a2ac8f255f85c212?pvs=21)
+    [Fidelity](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Fidelity%206584c661a70646a9a2ac8f255f85c212.md)
     
 4. Tancred J, Rumpfkeil M P. Aerodynamic response quantification of complex hypersonic configurations using variable fidelity surrogate modeling[C]//53rd AIAA aerospace sciences meeting. 2015, cited by 4. **Method**:Correction. **Fidelity Management**:No,**Discrete Fidelity:** Cart3D/Modified Newtonian Method,**. Optimization, application**:hypersonic nvehicle design.
     
-    [](https://www.notion.so/7cfbc6acf83747e69c66809c7bbdf51c?pvs=21)
+    [](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Untitled%207cfbc6acf83747e69c66809c7bbdf51c.md)
     
 
 **simplified governing equations**
@@ -544,7 +544,7 @@ We provide an overview of various approaches to build a surrogate model for mult
 2. Mohammad Zadeh P, Mehmani A, Messac A. High fidelity multidisciplinary design optimization of a wing using the interaction of low and high fidelity models[J]. Optimization and Engineering, 2016, 17: 503-532.MLA, cited by 13. **Method**:Correction. **Fidelity Management**:No,**Discrete Fidelity: steady NavierStokes equations,**Reynolds-averaged Navier-Stokes (RANS) equations**, application**: Wortmann FX60.126 2D airfoil.
 3. Giunta A A, Balabanov V, Kaufman M, et al. Variable-complexity response surface design of an HSCT configuration[J]. Multidisciplinary Design Optimization, Alexandrov NM and Hussaini MY eds, 1997, cited by 42. **Optimization, application**:aerodynamic-structural optimization of the High Speed Civil Transport (HSCT).
     
-    [Problem ](https://www.notion.so/Problem-948b03cb331c4a468fe1594dda423e8c?pvs=21)
+    [Problem ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Problem%20948b03cb331c4a468fe1594dda423e8c.md)
     
 4. Meliani M, Bartoli N, Lefebvre T, et al. Multi-fidelity efficient global optimization: Methodology and application to airfoil shape design[C]//AIAA aviation 2019 forum. 2019: 3236, cited by 26.
 
@@ -568,7 +568,7 @@ Chen H, Sarton du Jonchay T, Hou L, et al. Multifidelity space mission planning 
 
 ### Cooling hold design
 
-[Applications   ](https://www.notion.so/000dce3472c4448d8654a21168633612?pvs=21)
+[Applications   ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Applications%20000dce3472c4448d8654a21168633612.csv)
 
 ## 7.3 Applications in Scientific Discovery
 
@@ -590,12 +590,12 @@ Chen H, Sarton du Jonchay T, Hou L, et al. Multifidelity space mission planning 
 Chemistry 10 (2022).
 6. **[IMPORTANT]** Madin O C, Shirts M R. Using physical property surrogate models to perform accelerated multi-fidelity optimization of force field parameters[J]. Digital Discovery, 2023.
     
-    [](https://www.notion.so/adc1b02d00de4abb84f7eea81a91bdd4?pvs=21)
+    [](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Untitled%20adc1b02d00de4abb84f7eea81a91bdd4.md)
     
 7. Hernandez-Garcia A, Saxena N, Jain M, et al. Multi-Fidelity Active Learning with GFlowNets[J]. arXiv preprint arXiv:2306.11715, 2023.
 8. Egorova O, Hafizi R, Woods D C, et al. Multifidelity statistical machine learning for molecular crystal structure prediction[J]. The Journal of Physical Chemistry A, 2020, 124(39): 8065-8078.
     
-    [](https://www.notion.so/9f608e70154047c2975df9ec9ec28acf?pvs=21)
+    [](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Untitled%209f608e70154047c2975df9ec9ec28acf.md)
     
 9. Costabal F S, Matsuno K, Yao J, et al. Machine learning in drug development: characterizing the effect of 30 drugs on the QT interval using Gaussian process regression, sensitivity analysis, and uncertainty quantification[J]. Computer Methods in Applied Mechanics and Engineering, 2019, 348: 313-333.
 10. Sahli Costabal F, Yao J, Kuhl E. Predicting the cardiac toxicity of drugs using a novel multiscale exposure–response simulator[J]. Computer methods in biomechanics and biomedical engineering, 2018, 21(3): 232-246.
@@ -603,7 +603,7 @@ Chemistry 10 (2022).
 12. Sahli Costabal F, Yao J, Kuhl E. Predicting drug‐induced arrhythmias by multiscale modeling[J]. International journal for numerical methods in biomedical engineering, 2018, 34(5): e2964.
 13. Duan Y J, Fu L, Zhang X C, et al. Improved GNNs for Log D 7.4 Prediction by Transferring Knowledge from Low-Fidelity Data[J]. Journal of Chemical Information and Modeling, 2023, 63(8): 2345-2359.
     
-    [](https://www.notion.so/d599a2e724294e6c9575ffe42a928839?pvs=21)
+    [](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Untitled%20d599a2e724294e6c9575ffe42a928839.md)
     
 14. Wang Y, Xiong J, Xiao F, et al. LogD7. 4 prediction enhanced by transferring knowledge from chromatographic retention time, microscopic pKa and logP[J]. Journal of Cheminformatics, 2023, 15(1): 76.
 15. Zheng H, Luo W, Zhou G, et al. Uni-pKa: An Accurate and Physically Consistent pKa Prediction through Protonation Ensemble Modeling[J]. 2023.
@@ -616,20 +616,20 @@ Chemistry 10 (2022).
 
 1. **[IMPORTANT]** Fernández-Godino M G, Park C, Kim N H, et al. Review of multi-fidelity models[J]. `*arXiv*`, 2016, cited by 262. 
     
-    [Detail](https://www.notion.so/Detail-f25d1a2c6478445591d3591a00ed072b?pvs=21)
+    [Detail](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Detail%20f25d1a2c6478445591d3591a00ed072b.md)
     
 2. **[IMPORTANT]** Park C, Haftka R T, Kim N H. Remarks on multi-fidelity surrogates[J]. `*Struct. Multidiscip. Optim.*`, 2017, 55: 1029-1050, cited by 179.
     
-    [Detail ](https://www.notion.so/Detail-1a2a992ce41c4947ae71991e6bdf3d43?pvs=21)
+    [Detail ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Detail%201a2a992ce41c4947ae71991e6bdf3d43.md)
     
 3. **[IMPORTANT]** Fernández-Godino M G, Park C, Kim N H, et al. Review of Multi-Fidelity Surrogates; When Are They Worthwhile? 2018.
 4. **[IMPORTANT]** Giselle Fernández-Godino M, Park C, Kim N H, et al. Issues in deciding whether to use multifidelity surrogates[J]. `*AIAA J.*`, 2019, 57(5): 2039-2054, cited by 144.
     
-    [Detail ](https://www.notion.so/Detail-9468b6fd94aa48bc8fc3c18507f9a802?pvs=21)
+    [Detail ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Detail%209468b6fd94aa48bc8fc3c18507f9a802.md)
     
 5. **[IMPORTANT]** Brevault L, Balesdent M, Hebbal A. Overview of Gaussian process based multi-fidelity techniques with variable relationship between fidelities, application to aerospace systems[J]. **`*Aerosp. Sci. Technol.*`**, 2020, 107: 106339, cited by 30.
     
-    [Detail ](https://www.notion.so/Detail-8c072c81182f4a318da09e65ef27218b?pvs=21)
+    [Detail ](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Detail%208c072c81182f4a318da09e65ef27218b.md)
     
 
 ## 8.2 MF optimization
@@ -771,7 +771,9 @@ uncertainty quantification
 
 **Biomanufacturing** 
 
-1. Sun Y, Nathan-Roberts W, Pham T D, et al. Multi-fidelity Gaussian Process for Biomanufacturing Process Modeling with Small Data[J]. arXiv preprint arXiv:2211.14493, 2022.
+1. Sun Y, Nathan-Roberts W, Pham T D, et al. Multi-fidelity Gaussian Process for Biomanufacturing Process Modeling with Small Data[J]. arXiv preprint arXiv:2211.14493
+        
+        , 2022.
 
 **other**
 
@@ -787,4 +789,4 @@ uncertainty quantification
 10. Conglomerate Multi-Fidelity Gaussian Process Modeling, with Application to Heavy-Ion Collisions
 11. Stacking designs: designing multi-fidelity experiments with target
 
-[Thesis Planning](https://www.notion.so/Thesis-Planning-ea815ec7611e4d418b6e8885029fb562?pvs=21)
+[Thesis Planning](MF%20literature%20review%20list%202638a7f61ad441a483611a0fc4dd21ce/Thesis%20Planning%20ea815ec7611e4d418b6e8885029fb562.md)
