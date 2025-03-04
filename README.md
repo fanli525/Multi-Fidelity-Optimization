@@ -2,6 +2,8 @@
 
 > 💡 This is the notebook for recording MF optimization literature in preparation for the CSUR paper.
 > 
+>     Li K, Li F. Multi-fidelity methods for optimization: a survey[J]. arXiv preprint arXiv:2402.09638, 2024.
+>
 > 💡 Overview of Multi-Fidelity Optimization Software Packages are in [Multi-fidelity papers with code](https://github.com/fanli525/Multi-Fidelity-Optimization/blob/master/Multi-fidelity%20papers%20with%20code.md) 
 
 
@@ -9,7 +11,6 @@
 
 We provide an overview of various approaches to build a surrogate model for multi-fidelity data, with a focus on their application in MFO.
 
----
 
 ### 1.1 Single Model Methods
 
