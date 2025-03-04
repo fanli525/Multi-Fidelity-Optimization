@@ -1,7 +1,32 @@
-# Multi-fidelity Papers with Code
+# Overview of Multi-Fidelity Optimization Software Packages
 
-💡 This is the notebook for recording MF optimization literature in preparation for the CSUR paper.
+| Package | Reference | Year | Programming Language | Optimizer |
+|---------|-----------|------|----------------------|-----------|
+| [MFB](https://github.com/HandingWang/MFB) | PSO-AFAg [WangJD18] | 2018 | MATLAB | SAEA |
+| [TSA-BFEA](https://github.com/HandingWang/TSA-BFEA) | TSA-BFEA [WangJYJ20] | 2020 | MATLAB | SAEA |
+| [RoBO](https://github.com/automl/RoBO) | Fabolas [KleinFBHH17] | 2017 | Python | MFBO |
+| [dragonfly](https://github.com/cclauss/dragonfly/tree/16071860ff2a182cf8854f11c1a7006bcae58267) | BOCA [KandasamyDSP17] | 2017 | Python | MFBO |
+| [Spearmint](https://github.com/HIPS/Spearmint) | MTBO [SwerskySA13] | 2012 | Python | MFBO |
+| [mf-gp-ucb](https://github.com/kirthevasank/mf-gp-ucb) | MF-GP-UCB [KandasamyDOSP19] | 2019 | MATLAB | MFBO |
+| [DNN-MFBO](https://github.com/shib0li/DNN-MFBO) | DNN-MFBO [LiXKZ20] | 2020 | Python | MFBO |
+| [BMBO-DARN](https://github.com/shib0li/BMBO-DARN) | BMBO-DARN [LiKZ21] | 2021 | Python | MFBO |
+| [MF-DGP](https://github.com/optimal-pse-lab/pulsed-reactor-optimisation) | MF-DGP [SavageBMR22] | 2022 | Python | MFBO |
+| [DyHPO](https://github.com/releaunifreiburg/DyHPO) | DyHPO [WistubaKG22] | 2022 | Python | MFBO |
+| [MF-MES](https://github.com/takeuchi-lab/MF-MES) | MF-MES [TakenoFTKSTK22] | 2022 | Python | MFBO |
+| [rmfbo](https://github.com/aaltopml/rmfbo) | rMFBO [MikkolaMFK23] | 2023 | Python | MFBO |
+| [MFBoom](https://github.com/jpfolch/MFBoom) | MFBoom [FolchLSWTWM23] | 2023 | Python | MFBO |
+| [HpBandSter](https://github.com/automl/HpBandSter) | Hyperband [LiJDRT17], BOHB [FalknerKH18], DEHB [AwadMH21], SMAC3 [LindauerEFBDBRS22] | 2017-2022 | Python | Bandit |
+| [darts_asha](https://github.com/liamcli/darts_asha) | ASHA [LiJRGBHRT20] | 2020 | Python | Bandit |
+| [MFES-HB](https://paperswithcode.com/paper/mfes-hb-efficient-hyperband-with-multi) | MFES-HB [LiSJG0021] | 2021 | Python | Bandit |
+| [HyperTune](https://github.com/thomas-young-2013/HyperTune) | HyperTune [LiSJZLLZC22] | 2022 | Python | Bandit |
+| [GPTune](https://github.com/gptune/GPTune) | GPTuneBand [ZhuLGBL22] | 2022 | Python | Bandit |
+| [pasha](https://github.com/ondrejbohdal/pasha) | PASHA [BohdalBWEAZ23] | 2023 | Python | Bandit |
+| [optuna](https://github.com/optuna/optuna) | Successive Halving [JamiesonT16], Hyperband [LiJDRT17] | 2019 | Python | Bandit |
+| [mlr3hyperband](https://github.com/mlr-org/mlr3hyperband) | Successive Halving [JamiesonT16], Hyperband [LiJDRT17] | 2020 | R | Bandit |
+| [syne-tune](https://github.com/awslabs/syne-tune) | Hyperband [LiJDRT17], ASHA [LiJRGBHRT20], BOHB [FalknerKH18], DEHB [AwadMH21], HyperTune [LiSJZLLZC22], DyHPO [WistubaKG22], PASHA [BohdalBWEAZ23] | 2022 | Python | Bandit |
+| [open-box](https://github.com/PKU-DAIR/open-box) | Hyperband [LiJDRT17], BOHB [FalknerKH18], MFES-HB [LiSJG0021] | 2023 | Python | Bandit |
 
+---
 ## 1. Bayesian Optimization for MFO
 
 ### 1.1 Single model-based MFBO
@@ -49,7 +74,13 @@
 |----|---------------------------------------------|------------|------|--------------|--------------|----|----|
 | 1  | Wang H, Jin Y, Doherty J., 2017, *IEEE Trans. Evol.* (cited by 2) | Surrogate-assisted EA | - | Multi-fidelity | Generic Test Suite | [Matlab](https://github.com/HandingWang/MFB) | [PDF](https://ieeexplore.ieee.org/document/8054707) |
 | 2  | Wang H, Jin Y, Yang C, et al., 2020, *Applied Soft Computing* (cited by 2) | Surrogate-assisted EA | - | Multi-fidelity | Bi-Fidelity Evolutionary Algorithm | [Matlab](https://github.com/HandingWang/TSA-BFEA) | [PDF](https://www.sciencedirect.com/science/article/pii/S1568494620302167) |
-| 3  | Kenny A, Ray T, Singh H K, et al., 2023, *EMO’23* | Surrogate-assisted EA | - | Multi-objective Multi-fidelity | - | [Python](http://www.mdolab.net/research_resources.html) | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_26) |
+| 3  | Kenny A, Ray T, Singh H K, et al., 2023, *EMO’23* | Surrogate-assisted EA | - | Multi-objective Multi-fidelity | - | [Python](http://www.mdolab.net/research_resources.html) | [PDF](https://link.springer.com/chapter/10.1007/978-3-031-27250-9_26
+        
+        
+        
+        
+        
+        ) |
 
 ---
 
