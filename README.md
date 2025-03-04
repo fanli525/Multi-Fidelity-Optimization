@@ -2,7 +2,7 @@
 
 > 💡 This is the notebook for recording MF optimization literature in preparation for the CSUR paper.
 > 
-> 💡 Overview of Multi-Fidelity Optimization Software Packages are in [MFB]([https://github.com/HandingWang/MFB](https://github.com/fanli525/Multi-Fidelity-Optimization/blob/master/Multi-fidelity%20papers%20with%20code.md) 
+> 💡 Overview of Multi-Fidelity Optimization Software Packages are in [Multi-fidelity papers with code](https://github.com/fanli525/Multi-Fidelity-Optimization/blob/master/Multi-fidelity%20papers%20with%20code.md) 
 
 
 ## 1. Multi-Fidelity Surrogate Model
