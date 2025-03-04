@@ -1,8 +1,9 @@
 # Multi-Fidelity Literature Review List
 
 > 💡 This is the notebook for recording MF optimization literature in preparation for the CSUR paper.
+> 
+> 💡 Overview of Multi-Fidelity Optimization Software Packages are in [MFB](https://github.com/HandingWang/MFB) 
 
----
 
 ## 1. Multi-Fidelity Surrogate Model
 
